@@ -1,4 +1,4 @@
-# assemble-foundation6-starter
+# Assemble Foundation 6 Starter Kit
 
 > A prototypying starter kit based on Assemble (SSG) and Foundation 6..
 
